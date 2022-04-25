@@ -13,6 +13,10 @@ public class Demo {
 	{
 		  System.out.println("m3 of Demo");
 	}
+	public void m4()
+	{
+		  System.out.println("m4 of Demo");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("second github project");
